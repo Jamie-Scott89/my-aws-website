@@ -1,4 +1,4 @@
 function greet() {
-    alert("Welcome to my AWS-hosted website!");
+    alert("Welcome to my trial AWS-hosted website!");
   }
   
